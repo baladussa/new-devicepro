@@ -1,1 +1,2 @@
 # new-devicepro
+#MAVEN PROJECT
